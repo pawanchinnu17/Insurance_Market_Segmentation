@@ -49,7 +49,7 @@ scikit-learn
 streamlit
 plotly
 pickle
-
+joblib
  ## Git commands
 
 ```bash

@@ -49,3 +49,17 @@ scikit-learn
 streamlit
 plotly
 pickle
+
+ ## Git commands
+
+```bash
+
+pip install -r requirements.txt
+git add .
+
+git commit -m "Updated"
+
+git push origin main
+```
+
+```

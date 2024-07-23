@@ -46,11 +46,10 @@ streamlit
 plotly
 pickle
 joblib
+
+pip install -r requirements.txt(to install all the packages at one go)
  ## Git commands
 
-```bash
-
-pip install -r requirements.txt
 git add .
 
 git commit -m "Updated"
